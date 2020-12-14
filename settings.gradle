@@ -1,0 +1,3 @@
+rootProject.name='RichBox'
+include ':app'
+include ':richbox'
